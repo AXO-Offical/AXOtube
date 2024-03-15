@@ -1,0 +1,22 @@
+logo1 {
+position: absolute;
+  top: 50px;
+  right: 20px;
+}
+
+logo2 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+test {
+  width: 200px;
+}
+Verdana {
+  font-family: Verdana, sans-serif;
+}
+Body1 {
+  position: absolute;
+  top: 500px;
+  left: 20px;
+}
